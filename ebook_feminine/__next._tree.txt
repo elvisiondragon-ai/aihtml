@@ -1,0 +1,2 @@
+:HL["/_next/static/chunks/791c0e015d950849.css","style"]
+0:{"buildId":"g9mJd1PQe1Jv0fzVDoD4c","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"ebook_feminine","paramType":null,"paramKey":"ebook_feminine","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
